@@ -1,0 +1,204 @@
+em/* Utility */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 2.5em;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid #fff;
+}
+
+p {
+
+  padding: 0 3em 1em;
+}
+
+.padding-btn {
+  padding: 0.5em;
+}
+
+.line-space {
+  line-height: 1.5;
+}
+
+.letter-space {
+  letter-spacing: 1.5px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+h1 {
+  padding: 0.5em;
+
+}
+
+li {
+  padding-right: 0.6em;
+}
+
+.navbar {
+  padding: 8px 10px;
+
+
+}
+
+.navbar-nav {
+  padding-left: 10px;
+}
+.nav-link {
+  font-size: 1.5em;
+}
+
+
+
+body {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Theme */
+
+.primary-theme {
+  background-color: #fff;
+}
+.dark-theme {
+  background-color: #000;
+}
+
+/* Main Container */
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+
+}
+
+/* header {
+  padding-top: 1em;
+} */
+
+/* Navigation */
+
+.btn-primary a {
+  color:
+}
+
+  .btn-primary:hover {
+  text-decoration: none;
+  background-color:  #F1592A;
+  opacity: 0.7;
+
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 1.5em 0;
+}
+
+.hero p {
+  padding: 0 2em 1em;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2em;
+  color: #fff;
+  opacity: 0.8;
+
+
+}
+
+.hero-btn {
+  background-color: #138F30;
+  padding: 0.5em;
+}
+
+.bottom-sect {
+  background-color: #000;
+}
+
+.bottom-sect img {
+  width: 100%;
+  padding: 0 1em;
+}
+
+.icons {
+  padding: 0.5em 0.4em;
+  text-align: center;
+}
+
+.products {
+  height: 4vh;
+  width: 92%;
+  background-color: #303030;
+  opacity: 0.6;
+  text-align: center;
+  margin: auto;
+
+
+
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+
+}
+
+.fa-youtube {
+  color: #FF0000;
+}
+
+.fa-instagram {
+  color: #fbad50;
+}
+
+.fa-phone-square-alt {
+  color: #276678;
+}
+
+.fa-map-marked-alt {
+  color: #1EA362;
+}
+
+
+/* Store Page */
+
+.rm-padding {
+  padding: 0;
+}
+
+.page-title {
+  margin: 0;
+  padding: 1em;
+}
+
+.product1 {
+  background-color: #707070;
+
+}
+
+img.product1 {
+
+  width: 50%;
+
+
+}
+
+.product2 {
+
+
+}
+
+.product2 img {
+  height: 50%;
+}
